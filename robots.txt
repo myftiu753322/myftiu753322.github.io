@@ -1,0 +1,10 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://myftiu753322.github.io/myftiu753322_github_io_zp533_12.txt
+Sitemap: https://myftiu753322.github.io/myftiu753322_github_io_zp533_16.txt
+Sitemap: https://myftiu753322.github.io/myftiu753322_github_io_zp533_2.txt
+Sitemap: https://myftiu753322.github.io/myftiu753322_github_io_zp533_23.txt
+Sitemap: https://myftiu753322.github.io/myftiu753322_github_io_zp533_27.txt
+Sitemap: https://myftiu753322.github.io/myftiu753322_github_io_zp533_4.txt
+Sitemap: https://myftiu753322.github.io/myftiu753322_github_io_zp533_8.txt
